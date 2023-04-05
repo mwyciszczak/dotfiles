@@ -1,0 +1,7 @@
+brave-bin 1:1.49.132-1
+coreshot 4.4.0-1
+libcprime 4.4.1-1
+qtile-extras 0.22.1-2
+rstudio-desktop-bin 2023.03.0.386-2
+visual-studio-code-bin 1.77.0-1
+yay 11.3.2-1
