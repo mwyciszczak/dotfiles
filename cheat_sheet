@@ -1,0 +1,51 @@
+Polecenia:
+wc -l plik - ilość linijek w pliku
+ctrl+u - czyści linie w konsoli
+expac --timefmt='%Y-%m-%d %T' '%l\t%n' | sort - wypisuje paczki sortując po dacie instalacji
+yay -Qm - paczki instalowane spoza oficjalnego repo
+
+win+ctrl+q - logout
+win+enter - terminal
+win+w - zamknij okno
+win+ctrl+r - reload qtile
+win+p - dmenu
+win+tab - zmienia layout
+win+space - zmienia aktywne okno w danym workspace
+
+Glosnosc: Scroll up i Scroll down na widgecie
+volume up - pamixer -i 5
+volume down - pamixer -d 5
+current volume - pamixer --get-volume
+mute - pamixer -m
+
+Jasnosc: Scroll up i Scroll down na widgecie
+bright up - light -A 5
+bright down - light -U 5
+set bright - light -S 30
+get bright - light -G
+
+MidnightCommander mc
+ctrl+x + i - szczegóły pliku
+shift+arrows - zaznaczanie wielu plików
+f8 - usuwanie
+f7 - nowy folder
+f5 - kopiuj
+f6 - przenieś (zaznaczone na drugi panel)
+f9 - górne menu
+f10 - wyjscie
+tab - zmienia okno
+
+Zdjecia:
+feh nazwa_zdjecia
+
+Filmy:
+vlc nazwa_pliku
+albo włączyć flc i przeklikać w nim
+
+Programy Konsolowe:
+neofetch - dump informacji i flex logo
+htop - pokazuje procesy i zużycie zasobów
+figlet slowo - tworzy art z liter
+
+Pdf:
+zathura nazwapliku
